@@ -1,0 +1,61 @@
+.speech {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.song {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    margin-left: 40px;
+    font-style:italic;
+}
+
+.direction {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: #f2f2f2;
+    padding: 8px;
+}
+
+.direction:hover {
+    background-color: #333333;
+    color: white;
+}
+
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+.ruth {
+    color: darkred;
+}
+
+.frederic {
+    color: darkblue;
+}
+
+.edith {
+    color: darkgreen;
+}
+
+.kate {
+    color: purple;
+}
+
+.isabel {
+    color: brown;
+}
+
+.girls {
+    color: teal;
+}
+
+.all {
+    color: navy;
+}
