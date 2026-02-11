@@ -85,3 +85,10 @@
 .cast-table tr:nth-child(odd){
     background-color: #ffffff;
 }
+
+.name:hover{
+    text-shadow: 3px 3px 8px magenta;
+    border: 2px solid teal;
+    padding: 4px;
+    border-radius: 6px;
+}
